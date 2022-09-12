@@ -1,0 +1,10 @@
+---
+layout: product-family 
+permalink: index.html 
+lead: ONTAP helps you create a storage infrastructure that reduces costs, accelerates critical workloads, and protects and secures data.  
+summary: ONTAP は、コスト削減、重要なワークロードの高速化、データの保護とセキュリティ確保を実現するストレージインフラの構築を支援します。 
+---
+= ONTAP 製品ドキュメント
+:allow-uri-read: 
+
+
