@@ -10,19 +10,15 @@
   <block id="d685640410801eb03bb5dcb58186458f" category="sidebar">システム</block>
   <block id="253b40ae359ba25b56231803430c4873" category="sidebar">ONTAP</block>
   <block id="9523e2611916570d7f12959f26121afb" category="sidebar">ONTAP CLIおよび最新バージョンのONTAP System Manager（ONTAP 9.7以降）を使用して、データセンターにONTAP 9データ管理ソフトウェアを導入して管理します。</block>
-  <block id="391aea2b8a642f755fa9fc56deaf7f9d" category="sidebar">ONTAP の自動化</block>
   <block id="cd0da2f9fb1b99c1f4461a4e987db162" category="sidebar">ONTAP REST APIおよびサポートテクノロジを使用して、ONTAP ストレージシステムの導入と管理を自動化できます。</block>
   <block id="4e562da2b893fe742016a3ccfd5b1e84" category="sidebar">ONTAP コマンド</block>
   <block id="eba31e011522d2a0e8531d2b46a4b64d" category="sidebar">ONTAP CLIで使用できるコマンドについて説明します。</block>
   <block id="18f57d600a92c92b9c8e184c2871790b" category="sidebar">ONTAP MetroCluster</block>
   <block id="cbcc6364d2b3c7edb3a0d41c8e5f1f9f" category="sidebar">同期レプリケーションを使用してアレイベースのクラスタリングでストレージを保護し、継続的な可用性を実現します。</block>
-  <block id="353534d94bfe5cda4a518ae399d604c2" category="sidebar">AFF および FAS のドキュメント</block>
   <block id="0491d39c17c58e82c7523e82200a4f42" category="sidebar">AFF およびFAS のドキュメントページでは、AFF およびFAS システムとクラスタおよびストレージスイッチのインストール、保守、アップグレード方法に関する情報を参照できます。</block>
   <block id="117bdbda976fe8b3212bc3b6327a0a1b" category="sidebar">Cloud Volumes ONTAP</block>
   <block id="f3230df50ceeeafc3157bee849693d34" category="sidebar">ONTAP の仮想インスタンスを導入することで、クラウドストレージを低コストでインテリジェントに、コンプライアンスを実現し、セキュリティを強化できます。</block>
-  <block id="49e3dd7d4b1caa914dbba9cd07313728" category="sidebar">ONTAP EMSリファレンス</block>
   <block id="59dd97bfc4b53a6590c009d9ab55aa67" category="sidebar">ONTAP のEvent Messaging System（EMS）イベントについて説明します。</block>
-  <block id="79e721357e358d77c4700c25c863fc37" category="sidebar">ONTAP SAN ホスト構成</block>
   <block id="2aadcbf0b77f52d06244b76c0aea1a12" category="sidebar">NVMe、iSCSI、FCの各プロトコル用にONTAP SANホストを設定します。</block>
   <block id="2e641d75d103df9a37ad7a7a9d2e632e" category="sidebar">ONTAP システムマネージャクラシック</block>
   <block id="e2d007a557f8e11dbba3c27363a83bd6" category="sidebar">ONTAP 9.7以前では、ONTAP System Managerインターフェイスに別のレイアウトが使用されます。</block>
@@ -34,4 +30,10 @@
   <block id="8010c7fea7ec3a053ce59d083aa16df6" category="sidebar">ONTAP は、VMware ESXiハイパーバイザーを実行するさまざまなコモディティハードウェアサーバにSoftware-Defined Storageアプライアンスとして導入できます。</block>
   <block id="f9aa27ce7eee83622fab3ac30475062f" category="sidebar">ONTAP FlexArray</block>
   <block id="ab7f0696fcd43dd1d59a411bec1bc90c" category="sidebar">アレイLUNを使用して、Eシリーズおよびサードパーティ製アレイをONTAP で提供するストレージとして表示します。</block>
+  <block id="3a77755c4eaf7897cda1f7db8e722428" category="sidebar">ONTAPの自動化</block>
+  <block id="3da900eb43adce343acfa768b86ac0f6" category="sidebar">AFF AシリーズとCシリーズ、FAS、オールSANアレイ、スイッチ</block>
+  <block id="4434424bd2c1011098a508e85df56b94" category="sidebar">ONTAPテクニカルレポート</block>
+  <block id="d723da57939eb06777c90702932db91d" category="sidebar">ONTAPアーキテクチャの詳細と、特定のワークロードや環境に合わせてONTAPを最適化する方法をご確認ください。</block>
+  <block id="27c7ca02055622739ea07ba1243d7683" category="sidebar">ONTAP EMSリファレンス</block>
+  <block id="bc5ec30cd3249636e4dc6b792074194d" category="sidebar">ONTAP SAN ホスト構成</block>
 </blocks>

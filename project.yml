@@ -34,7 +34,7 @@ product-family:
     summary: ONTAP CLIおよび最新バージョンのONTAP System Manager（ONTAP 9.7以降）を使用して、データセンターにONTAP
       9データ管理ソフトウェアを導入して管理します。
     tags: all, tag_data_management, tag_data_protection
-  - title: ONTAP の自動化
+  - title: ONTAPの自動化
     icon: "./media/icon-api.png"
     url: https://docs.netapp.com/us-en/ontap-automation/index.html
     summary: ONTAP REST APIおよびサポートテクノロジを使用して、ONTAP ストレージシステムの導入と管理を自動化できます。
@@ -49,11 +49,16 @@ product-family:
     url: https://docs.netapp.com/us-en/ontap-metrocluster/
     summary: 同期レプリケーションを使用してアレイベースのクラスタリングでストレージを保護し、継続的な可用性を実現します。
     tags: all, tag_data_protection
-  - title: AFF および FAS のドキュメント
+  - title: AFF AシリーズとCシリーズ、FAS、オールSANアレイ、スイッチ
     icon: "./media/groups_line.png"
     url: https://docs.netapp.com/us-en/ontap-systems-family/
     summary: AFF およびFAS のドキュメントページでは、AFF およびFAS システムとクラスタおよびストレージスイッチのインストール、保守、アップグレード方法に関する情報を参照できます。
     tags: all, tag_systems
+  - title: ONTAPテクニカルレポート
+    icon: "./media/icon-onprem.png"
+    url: https://docs.netapp.com/us-en/ontap-technical-reports/index.html
+    summary: ONTAPアーキテクチャの詳細と、特定のワークロードや環境に合わせてONTAPを最適化する方法をご確認ください。
+    tags: all, tag_data_management, tag_data_protection
   - title: Cloud Volumes ONTAP
     icon: "./media/icon-cvo.png"
     url: https://docs.netapp.com/us-en/cloud-manager-cloud-volumes-ontap/index.html
