@@ -18,7 +18,6 @@
   <block id="f3230df50ceeeafc3157bee849693d34" category="sidebar">ONTAP の仮想インスタンスを導入することで、クラウドストレージを低コストでインテリジェントに、コンプライアンスを実現し、セキュリティを強化できます。</block>
   <block id="59dd97bfc4b53a6590c009d9ab55aa67" category="sidebar">ONTAP のEvent Messaging System（EMS）イベントについて説明します。</block>
   <block id="2aadcbf0b77f52d06244b76c0aea1a12" category="sidebar">NVMe、iSCSI、FCの各プロトコル用にONTAP SANホストを設定します。</block>
-  <block id="2e641d75d103df9a37ad7a7a9d2e632e" category="sidebar">ONTAP システムマネージャクラシック</block>
   <block id="e2d007a557f8e11dbba3c27363a83bd6" category="sidebar">ONTAP 9.7以前では、ONTAP System Managerインターフェイスに別のレイアウトが使用されます。</block>
   <block id="99be5fa77d38c7d9e875422bad8e7925" category="sidebar">ONTAP による7-Modeからの移行</block>
   <block id="21cbfb811e4dbccffe41f111d35806c8" category="sidebar">従来の7-Modeから最新のクラスタストレージプラットフォームへのデータの移行</block>
@@ -36,4 +35,5 @@
   <block id="00b58e662b325b5088592ef47840159f" category="sidebar">ONTAPシステムマネージャとONTAP CLIを使用して、ONTAP 9データ管理ソフトウェアをデータセンターに導入、管理します。</block>
   <block id="2df876fae9458ec6daf0b2557b22c32d" category="sidebar">AFF AシリーズおよびCシリーズ、FAS、オールフラッシュSANアレイ、スイッチ</block>
   <block id="fd386f6a14ab83ad506ab4a919020a9f" category="sidebar">AFF、FAS、オールフラッシュSANアレイシステム、およびクラスタスイッチとストレージスイッチのインストール、メンテナンス、アップグレードの方法について説明します。</block>
+  <block id="e0ef07c311c3d529bf1db8e5c324d936" category="sidebar">ONTAP System Manager（ONTAP 9.7以前）</block>
 </blocks>
