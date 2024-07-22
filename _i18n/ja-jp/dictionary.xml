@@ -24,7 +24,6 @@
   <block id="3be720072e03679f7ed0f85258130b70" category="sidebar">ONTAP Foreign LUN Import の略</block>
   <block id="34f1e4137ff927efa23d8e07e433f9eb" category="sidebar">他社製アレイや7-Modeシステムから最新のネットアップストレージへのLUNの移行</block>
   <block id="3a3a5cd068731551120f43f37950768b" category="sidebar">ONTAP Select の場合</block>
-  <block id="8010c7fea7ec3a053ce59d083aa16df6" category="sidebar">ONTAP は、VMware ESXiハイパーバイザーを実行するさまざまなコモディティハードウェアサーバにSoftware-Defined Storageアプライアンスとして導入できます。</block>
   <block id="f9aa27ce7eee83622fab3ac30475062f" category="sidebar">ONTAP FlexArray</block>
   <block id="ab7f0696fcd43dd1d59a411bec1bc90c" category="sidebar">アレイLUNを使用して、Eシリーズおよびサードパーティ製アレイをONTAP で提供するストレージとして表示します。</block>
   <block id="3a77755c4eaf7897cda1f7db8e722428" category="sidebar">ONTAPの自動化</block>
@@ -36,4 +35,5 @@
   <block id="2df876fae9458ec6daf0b2557b22c32d" category="sidebar">AFF AシリーズおよびCシリーズ、FAS、オールフラッシュSANアレイ、スイッチ</block>
   <block id="fd386f6a14ab83ad506ab4a919020a9f" category="sidebar">AFF、FAS、オールフラッシュSANアレイシステム、およびクラスタスイッチとストレージスイッチのインストール、メンテナンス、アップグレードの方法について説明します。</block>
   <block id="e0ef07c311c3d529bf1db8e5c324d936" category="sidebar">ONTAP System Manager（ONTAP 9.7以前）</block>
+  <block id="e3084fa571ba538a7020720d0b9f200e" category="sidebar">ONTAPは、VMware ESXiハイパーバイザーまたはKVMハイパーバイザーを実行するさまざまなコモディティハードウェアサーバにSoftware-Defined Storageアプライアンスとして導入できます。</block>
 </blocks>
