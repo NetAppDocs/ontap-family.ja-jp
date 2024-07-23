@@ -60,7 +60,7 @@ product-family:
     tags: all, tag_data_management, tag_data_protection
   - title: Cloud Volumes ONTAP
     icon: "./media/icon-cvo.png"
-    url: https://docs.netapp.com/us-en/cloud-manager-cloud-volumes-ontap/index.html
+    url: https://docs.netapp.com/us-en/bluexp-cloud-volumes-ontap/index.html
     summary: ONTAP の仮想インスタンスを導入することで、クラウドストレージを低コストでインテリジェントに、コンプライアンスを実現し、セキュリティを強化できます。
     tags: all, tag_data_management, tag_data_protection
   - title: ONTAP EMSリファレンス
