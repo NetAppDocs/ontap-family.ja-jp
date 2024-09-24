@@ -15,87 +15,77 @@ sidebar:
 product-family:
   sidebarlinks:
   - title: すべて
-    tags: all,tag_data_management,tag_automation,tag_systems,tag_data_protection,tag_data_migration
+    tags: all
     class: active
   - title: 自動化
-    tags: tag_automation
+    tags: automation
   - title: データ管理
-    tags: tag_data_management
+    tags: management
   - title: データ移行
-    tags: tag_data_migration
+    tags: migration
   - title: データ保護
-    tags: tag_data_protection
-  - title: システム
-    tags: tag_systems
+    tags: protection
+  - title: ハードウェアシステム
+    tags: hardware
   tiles:
-  - title: ONTAP
+  - title: AFF、ASA、FASシステム向けのONTAP 9
     icon: "./media/icon-onprem.png"
     url: https://docs.netapp.com/us-en/ontap/index.html
-    summary: ONTAPシステムマネージャとONTAP CLIを使用して、ONTAP 9データ管理ソフトウェアをデータセンターに導入、管理します。
-    tags: all, tag_data_management, tag_data_protection
-  - title: ONTAPの自動化
-    icon: "./media/icon-api.png"
-    url: https://docs.netapp.com/us-en/ontap-automation/index.html
-    summary: ONTAP REST APIおよびサポートテクノロジを使用して、ONTAP ストレージシステムの導入と管理を自動化できます。
-    tags: all, tag_automation, tag_data_management
-  - title: ONTAP コマンド
-    icon: "./media/cli.png"
-    url: https://docs.netapp.com/us-en/ontap-cli/
-    summary: ONTAP CLIで使用できるコマンドについて説明します。
-    tags: all, tag_data_management
+    summary: ONTAPソフトウェアを使用して、オールフラッシュFASシステム、オールフラッシュSANアレイシステム、FASハイブリッドフラッシュアレイ上のデータを管理できます。
+    tags: all, management, protection
+  - title: AFF、ASA、FASシステム
+    icon: "./media/groups_line.png"
+    url: https://docs.netapp.com/us-en/ontap-systems-family/
+    summary: オールフラッシュFASシステム、オールフラッシュSANアレイシステム、FASハイブリッドフラッシュアレイのインストール、メンテナンス、アップグレードの方法をご紹介します。
+    tags: all, hardware
+  - title: ASA r2システム
+    icon: "./media/groups_line.png"
+    url: https://docs.netapp.com/us-en/asa-r2/index.html
+    summary: ASA R2システムをインストールし、ONTAPを使用してデータを管理します。
+    tags: all, hardware
   - title: ONTAP MetroCluster
     icon: "./media/metrocluster.png"
     url: https://docs.netapp.com/us-en/ontap-metrocluster/
     summary: 同期レプリケーションを使用してアレイベースのクラスタリングでストレージを保護し、継続的な可用性を実現します。
-    tags: all, tag_data_protection
-  - title: AFF AシリーズおよびCシリーズ、FAS、オールフラッシュSANアレイ、スイッチ
-    icon: "./media/groups_line.png"
-    url: https://docs.netapp.com/us-en/ontap-systems-family/
-    summary: AFF、FAS、オールフラッシュSANアレイシステム、およびクラスタスイッチとストレージスイッチのインストール、メンテナンス、アップグレードの方法について説明します。
-    tags: all, tag_systems
-  - title: ONTAPテクニカルレポート
-    icon: "./media/icon-onprem.png"
-    url: https://docs.netapp.com/us-en/ontap-technical-reports/index.html
-    summary: ONTAPアーキテクチャの詳細と、特定のワークロードや環境に合わせてONTAPを最適化する方法をご確認ください。
-    tags: all, tag_data_management, tag_data_protection
-  - title: Cloud Volumes ONTAP
-    icon: "./media/icon-cvo.png"
-    url: https://docs.netapp.com/us-en/bluexp-cloud-volumes-ontap/index.html
-    summary: ONTAP の仮想インスタンスを導入することで、クラウドストレージを低コストでインテリジェントに、コンプライアンスを実現し、セキュリティを強化できます。
-    tags: all, tag_data_management, tag_data_protection
-  - title: ONTAP EMSリファレンス
-    icon: "./media/cli.png"
-    url: https://docs.netapp.com/us-en/ontap-ems/index.html
-    summary: ONTAP のEvent Messaging System（EMS）イベントについて説明します。
-    tags: all, tag_data_management
+    tags: all, protection
   - title: ONTAP SAN ホスト構成
     icon: "./media/server.png"
     url: https://docs.netapp.com/us-en/ontap-sanhost/
     summary: NVMe、iSCSI、FCの各プロトコル用にONTAP SANホストを設定します。
-    tags: all, tag_data_management
-  - title: ONTAP System Manager（ONTAP 9.7以前）
-    icon: "./media/config_line.png"
-    url: https://docs.netapp.com/us-en/ontap-system-manager-classic/
-    summary: ONTAP 9.7以前では、ONTAP System Managerインターフェイスに別のレイアウトが使用されます。
-    tags: all, tag_data_management
-  - title: ONTAP による7-Modeからの移行
-    icon: "./media/transition-tools.png"
-    url: https://docs.netapp.com/us-en/ontap-7mode-transition/
-    summary: 従来の7-Modeから最新のクラスタストレージプラットフォームへのデータの移行
-    tags: all, tag_data_migration
-  - title: ONTAP Foreign LUN Import の略
-    icon: "./media/transition-tools.png"
-    url: https://docs.netapp.com/us-en/ontap-fli/
-    summary: 他社製アレイや7-Modeシステムから最新のネットアップストレージへのLUNの移行
-    tags: all, tag_data_migration
+    tags: all, management
+  - title: ONTAPテクニカルレポート
+    icon: "./media/icon-onprem.png"
+    url: https://docs.netapp.com/us-en/ontap-technical-reports/index.html
+    summary: ONTAPアーキテクチャの詳細と、特定のワークロードや環境に合わせてONTAPを最適化する方法をご確認ください。
+    tags: all, management, protection
+  - title: ONTAP コマンド
+    icon: "./media/cli.png"
+    url: https://docs.netapp.com/us-en/ontap-cli/
+    summary: ONTAP CLIで使用できるコマンドについて説明します。
+    tags: all, management
+  - title: ONTAP EMSリファレンス
+    icon: "./media/cli.png"
+    url: https://docs.netapp.com/us-en/ontap-ems-9141/
+    summary: ONTAP のEvent Messaging System（EMS）イベントについて説明します。
+    tags: all, management
+  - title: ONTAPの自動化
+    icon: "./media/icon-api.png"
+    url: https://docs.netapp.com/us-en/ontap-automation/index.html
+    summary: ONTAP REST APIおよびサポートテクノロジを使用して、ONTAP ストレージシステムの導入と管理を自動化できます。
+    tags: all, automation, management
+  - title: Cloud Volumes ONTAP
+    icon: "./media/icon-cvo.png"
+    url: https://docs.netapp.com/us-en/cloud-manager-cloud-volumes-ontap/index.html
+    summary: ONTAP の仮想インスタンスを導入することで、クラウドストレージを低コストでインテリジェントに、コンプライアンスを実現し、セキュリティを強化できます。
+    tags: all, management, protection
   - title: ONTAP Select の場合
     icon: "./media/server.png"
     url: https://docs.netapp.com/us-en/ontap-select/
-    summary: ONTAPは、VMware ESXiハイパーバイザーまたはKVMハイパーバイザーを実行するさまざまなコモディティハードウェアサーバにSoftware-Defined
+    summary: ONTAP は、VMware ESXiハイパーバイザーを実行するさまざまなコモディティハードウェアサーバにSoftware-Defined
       Storageアプライアンスとして導入できます。
-    tags: all, tag_data_management, tag_data_protection
-  - title: ONTAP FlexArray
-    icon: "./media/cli.png"
-    url: https://docs.netapp.com/us-en/ontap-flexarray/
-    summary: アレイLUNを使用して、Eシリーズおよびサードパーティ製アレイをONTAP で提供するストレージとして表示します。
-    tags: all, tag_data_management
+    tags: all, management, protection
+  - title: ONTAP Foreign LUN Import の略
+    icon: "./media/transition-tools.png"
+    url: https://docs.netapp.com/us-en/ontap-fli/
+    summary: 他社製アレイや7-Modeシステムから最新のNetAppストレージにLUNを移行する。
+    tags: all, migration
