@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <blocks>
-  <block id="e21da1a4879f106c0966dc2fe45126c0" category="summary">ONTAP は、コスト削減、重要なワークロードの高速化、データの保護とセキュリティ確保を実現するストレージインフラの構築を支援します。</block>
   <block id="274bc582ca884fc158ea9ac9f79f9067" category="doc">ONTAP 製品ドキュメント</block>
   <block id="b1c94ca2fbc3e78fc30069c8d0f01680" category="sidebar">すべて</block>
   <block id="caea8340e2d186a540518d08602aa065" category="sidebar">自動化</block>
@@ -32,4 +31,5 @@
   <block id="942e7b614fd14bfa73ca3ead7a074727" category="sidebar">ASA R2システムをインストールし、ONTAPを使用してデータを管理します。</block>
   <block id="8010c7fea7ec3a053ce59d083aa16df6" category="sidebar">ONTAP は、VMware ESXiハイパーバイザーを実行するさまざまなコモディティハードウェアサーバにSoftware-Defined Storageアプライアンスとして導入できます。</block>
   <block id="b2934159aedd460ca247425783b1dc65" category="sidebar">他社製アレイや7-Modeシステムから最新のNetAppストレージにLUNを移行する。</block>
+  <block id="6b5b170d11f85aa7605678eed04a62cf" category="sidebar">ONTAP は、コスト削減、重要なワークロードの高速化、データの保護とセキュリティ確保を実現するストレージインフラの構築を支援します。</block>
 </blocks>
