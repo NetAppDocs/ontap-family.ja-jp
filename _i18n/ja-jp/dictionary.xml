@@ -4,7 +4,6 @@
   <block id="b1c94ca2fbc3e78fc30069c8d0f01680" category="sidebar">すべて</block>
   <block id="caea8340e2d186a540518d08602aa065" category="sidebar">自動化</block>
   <block id="198010d8bf8a3ff0f084ffd059a9a1da" category="sidebar">データ管理</block>
-  <block id="5866b98c049a53ea6dc7f50f9349f434" category="sidebar">データ移行</block>
   <block id="7e7397a7b79323762c61941fc0e6b5f9" category="sidebar">データ保護</block>
   <block id="cd0da2f9fb1b99c1f4461a4e987db162" category="sidebar">ONTAP REST APIおよびサポートテクノロジを使用して、ONTAP ストレージシステムの導入と管理を自動化できます。</block>
   <block id="4e562da2b893fe742016a3ccfd5b1e84" category="sidebar">ONTAP コマンド</block>
@@ -15,7 +14,6 @@
   <block id="f3230df50ceeeafc3157bee849693d34" category="sidebar">ONTAP の仮想インスタンスを導入することで、クラウドストレージを低コストでインテリジェントに、コンプライアンスを実現し、セキュリティを強化できます。</block>
   <block id="59dd97bfc4b53a6590c009d9ab55aa67" category="sidebar">ONTAP のEvent Messaging System（EMS）イベントについて説明します。</block>
   <block id="2aadcbf0b77f52d06244b76c0aea1a12" category="sidebar">NVMe、iSCSI、FCの各プロトコル用にONTAP SANホストを設定します。</block>
-  <block id="3be720072e03679f7ed0f85258130b70" category="sidebar">ONTAP Foreign LUN Import の略</block>
   <block id="3a3a5cd068731551120f43f37950768b" category="sidebar">ONTAP Select の場合</block>
   <block id="3a77755c4eaf7897cda1f7db8e722428" category="sidebar">ONTAPの自動化</block>
   <block id="4434424bd2c1011098a508e85df56b94" category="sidebar">ONTAPテクニカルレポート</block>
@@ -30,6 +28,7 @@
   <block id="fde1abb5537b55c34521d414267b3f70" category="sidebar">ASA r2システム</block>
   <block id="942e7b614fd14bfa73ca3ead7a074727" category="sidebar">ASA R2システムをインストールし、ONTAPを使用してデータを管理します。</block>
   <block id="8010c7fea7ec3a053ce59d083aa16df6" category="sidebar">ONTAP は、VMware ESXiハイパーバイザーを実行するさまざまなコモディティハードウェアサーバにSoftware-Defined Storageアプライアンスとして導入できます。</block>
-  <block id="b2934159aedd460ca247425783b1dc65" category="sidebar">他社製アレイや7-Modeシステムから最新のNetAppストレージにLUNを移行する。</block>
   <block id="6b5b170d11f85aa7605678eed04a62cf" category="sidebar">ONTAP は、コスト削減、重要なワークロードの高速化、データの保護とセキュリティ確保を実現するストレージインフラの構築を支援します。</block>
+  <block id="9e1c8cf536b61ced9a099cdc8d9a7ea5" category="sidebar">AFXシステム</block>
+  <block id="e187c97468fbf8588e709948e3975e74" category="sidebar">AFX システムをインストールし、 ONTAPを使用してデータを管理します。</block>
 </blocks>

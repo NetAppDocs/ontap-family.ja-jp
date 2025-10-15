@@ -11,8 +11,6 @@ product-family:
     tags: automation
   - title: データ管理
     tags: management
-  - title: データ移行
-    tags: migration
   - title: データ保護
     tags: protection
   - title: ハードウェアシステム
@@ -27,6 +25,11 @@ product-family:
     icon: "./media/groups_line.png"
     url: "../ontap-systems-family/index.html"
     summary: オールフラッシュFASシステム、オールフラッシュSANアレイシステム、FASハイブリッドフラッシュアレイのインストール、メンテナンス、アップグレードの方法をご紹介します。
+    tags: all, hardware
+  - title: AFXシステム
+    icon: "./media/groups_line.png"
+    url: "../ontap-afx/index.html"
+    summary: AFX システムをインストールし、 ONTAPを使用してデータを管理します。
     tags: all, hardware
   - title: ASA r2システム
     icon: "./media/groups_line.png"
@@ -74,8 +77,3 @@ product-family:
     summary: ONTAP は、VMware ESXiハイパーバイザーを実行するさまざまなコモディティハードウェアサーバにSoftware-Defined
       Storageアプライアンスとして導入できます。
     tags: all, management, protection
-  - title: ONTAP Foreign LUN Import の略
-    icon: "./media/transition-tools.png"
-    url: "../ontap-fli/index.html"
-    summary: 他社製アレイや7-Modeシステムから最新のNetAppストレージにLUNを移行する。
-    tags: all, migration
