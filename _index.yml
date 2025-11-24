@@ -74,6 +74,6 @@ product-family:
   - title: ONTAP Select の場合
     icon: "./media/server.png"
     url: "../ontap-select/index.html"
-    summary: ONTAP は、VMware ESXiハイパーバイザーを実行するさまざまなコモディティハードウェアサーバにSoftware-Defined
-      Storageアプライアンスとして導入できます。
+    summary: VMware ESXi または KVM ハイパーバイザーを実行するさまざまな汎用ハードウェア サーバーに、 ONTAP をソフトウェア定義ストレージ
+      アプライアンスとして導入します。
     tags: all, management, protection
