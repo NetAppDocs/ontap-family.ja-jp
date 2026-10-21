@@ -31,4 +31,6 @@
   <block id="9e1c8cf536b61ced9a099cdc8d9a7ea5" category="sidebar">AFXシステム</block>
   <block id="e187c97468fbf8588e709948e3975e74" category="sidebar">AFX システムをインストールし、 ONTAPを使用してデータを管理します。</block>
   <block id="88d34ce861cf9c76dcc348b6228b0214" category="sidebar">VMware ESXi または KVM ハイパーバイザーを実行するさまざまな汎用ハードウェア サーバーに、 ONTAP をソフトウェア定義ストレージ アプライアンスとして導入します。</block>
+  <block id="58dc7db50a2e11a9de9e6cc092c59d4d" category="sidebar">ONTAP Mediator</block>
+  <block id="488b90f21bb5d07110e40b75dac5412a" category="sidebar">ONTAP Mediatorを使用して、MetroCluster IPおよびSnapMirrorアクティブ同期構成を監視します。</block>
 </blocks>

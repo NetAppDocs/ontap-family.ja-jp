@@ -36,6 +36,10 @@ product-family:
     url: "../ontap-metrocluster/index.html"
     summary: 同期レプリケーションを使用してアレイベースのクラスタリングでストレージを保護し、継続的な可用性を実現します。
     tags: all, protection
+  - title: ONTAP Mediator
+    url: "../ontap-mediator/index.html"
+    summary: ONTAP Mediatorを使用して、MetroCluster IPおよびSnapMirrorアクティブ同期構成を監視します。
+    tags: all, protection
   - title: ONTAP SAN ホスト構成
     url: "../ontap-sanhost/index.html"
     summary: NVMe、iSCSI、FCの各プロトコル用にONTAP SANホストを設定します。
